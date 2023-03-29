@@ -23,7 +23,7 @@ PROJECTS ={
 ## Path Settings
 current_dir = Path(__file__).parent if"__file__" in locals() else Path.cwd()
 css_file = current_dir / "Style"/ "main.css"
-resume_file = current_dir / "Assets" / "Ramjee.docx"
+resume_file = current_dir / "Assets" / "Ramjee.pdf"
 profile_pic = current_dir/ "Assets" / "rrr.jpeg"
 
 with open(css_file) as f:
