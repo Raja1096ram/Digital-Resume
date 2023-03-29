@@ -1,0 +1,31 @@
+ @import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300;400;500;600;700&display=swap');
+
+ *{font-family:'Times New Roman';}
+
+
+
+ a{
+    text-decoration: none;
+    color: rgb(5, 9, 37) !important;
+    font-weight: 6000;
+    text-align: justify;
+ }
+
+ a:hover{
+    color: skyblue !important;
+    text-decoration: none;
+    
+ }
+
+ ul{list-style-type: none;}
+
+ hr{
+    margin-top: 0px;
+    margin-bottom: 5%;
+ }
+
+ 
+
+ footer{visibility: hidden;}
+ /*#MainMenu{visibility: hidden;}
+ header{visibility: hidden;}*/
